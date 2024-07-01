@@ -1,0 +1,23 @@
+﻿  solver.cpp
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(50,14): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(50,14): warning C4244:         with
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(50,14): warning C4244:         [
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(50,14): warning C4244:             _Ty=float
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(50,14): warning C4244:         ]
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(51,14): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(51,14): warning C4244:         with
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(51,14): warning C4244:         [
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(51,14): warning C4244:             _Ty=float
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(51,14): warning C4244:         ]
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(101,82): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(101,82): warning C4244:         with
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(101,82): warning C4244:         [
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(101,82): warning C4244:             _Rep=__int64
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(101,82): warning C4244:         ]
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(359,69): warning C4244: '+=': conversion from 'IloNum' to 'float', possible loss of data
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(370,56): warning C4244: 'argument': conversion from 'IloNum' to '_Ty', possible loss of data
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(370,56): warning C4244:         with
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(370,56): warning C4244:         [
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(370,56): warning C4244:             _Ty=float
+C:\Users\ErisGrey\source\repos\Omega_CDaR\Omega_CDaR\solver.cpp(370,56): warning C4244:         ]
+  Omega_CDaR.vcxproj -> C:\Users\ErisGrey\source\repos\Omega_CDaR\x64\Debug\Omega_CDaR.exe
